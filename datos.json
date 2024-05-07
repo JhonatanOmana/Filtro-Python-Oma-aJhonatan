@@ -1,0 +1,71 @@
+[
+    {
+        "clientes":[
+            {
+                "cc":1,
+                "nombre":"Andres",
+                "direccion":"12a",
+                "telefono": 3213412235,
+                "categoria":""
+            },
+            {
+                "cc":2,
+                "nombre":"Maicol",
+                "direccion":"12b",
+                "telefono": 3213412236,
+                "categoria":""
+            },
+            {
+                "cc":3,
+                "nombre":"Stiven",
+                "direccion":"12c",
+                "telefono": 3213412237,
+                "categoria":""
+            },
+            {
+                "cc":4,
+                "nombre":"Pedro",
+                "direccion":"12d",
+                "telefono": 3213412238,
+                "categoria":""
+            }
+
+        ]
+    },
+    {
+        "modulo de servicios":[
+            {
+                "md1":"internet fibra optica"
+            },
+            {
+                "md2":"plan pospago"
+            },
+            {
+                "md3":"plan prepago"
+            }
+        ]
+    },
+    {
+        "Módulo de Reportes":[
+            {
+                "mr1":"Generación de informes"
+            },
+            {
+                "mr2":"Análisis de datos"
+            },
+            {
+                "mr3":"Informes sobre usuarios"
+            }
+        ]
+    },
+    {
+        "Módulo de Bonificaciones":[
+            {
+                "mb1":"Identificación automática"
+            },
+            {
+                "mb2":"Cálculo y asignación de bonificaciones"
+            }
+        ]
+    }
+]
