@@ -1,0 +1,56 @@
+
+# Movistar
+
+Este repositorio contiene el código fuente de un programa para movistar. El programa consta de dos perfiles principales: Usuario y Administrador.
+
+## Usuario
+
+
+1. **Servicios utilizados**: Aqui podrá consultar todos los servicios que ha usado a lo largo del tiempo con Movistar
+2. **Servicio al cliente**: Aquí se le solucionan las dudas o cualquier problema que se le presente usanano los servicios.
+3. **Reclamos**: El usuario tendrá una sección en la cual podrá dejar sus inconformidades con el servicio.
+4. **Sugerencia**:El usuario tendra una sección donde pueda dejar en claro lo que se podria mejorar desde su perspectiva
+5. **Salir**
+
+## Administrador 
+
+1. **Crear usuario**:
+2. **Mostrar usuarios**:
+3. **Actualizar usuarios**:
+4. **Eliminar usuarios**:
+5. **Módulo de Gestión de Servicios**:
+6. **Módulo de Reportes**:
+7. **Módulo de Bonificaciones para Clientes Leales**:
+
+
+
+
+
+
+
+
+## Tecnologías utilizadas
+
+- Python
+- Json
+
+
+## Estructura del proyecto
+
+
+- La carpeta `filtro.py` contiene toda la funcionalidad del programa de servicios de Movistar.
+- El archivo `json` almacena todos los datos de los usuarios con sus respectivos datso.
+
+
+## Características del diseño
+
+- Programa diseñado para que sea facil de entender y manejar para cualquier persona. 
+
+## Instrucciones de uso
+
+1. Clona este repositorio o descarga los archivos en tu máquina local.
+2. Abre el archivo `filtro.py` en Visual Studio Code.
+
+## Créditos
+
+Este proyecto fue desarrollado por Jhonatan Omaña..
